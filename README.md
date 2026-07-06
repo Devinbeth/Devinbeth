@@ -4,7 +4,7 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Devinbeth&theme=dark)<br/>
-![](https://github-readme-stats-sooty-two-75.vercel.app/api/top-langs/?username=Devinbeth&theme=dark&hide_border=false&layout=compact&hide=shell,css,dockerfile,html&langs_count=5&lang_colors=python:44a833,elixir:a074c4)
+![](https://github-readme-stats-sooty-two-75.vercel.app/api/top-langs/?username=Devinbeth&theme=dark&hide_border=false&layout=compact&hide=shell,css,dockerfile,html&langs_count=5&lang_colors=python:ffd43b,javascript:43853d,elixir:a074c4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
